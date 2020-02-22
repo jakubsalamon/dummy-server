@@ -1,0 +1,7 @@
+{
+    "lista" : [
+        { "id": 1, "name": "Karol", "age": 21 },
+        { "id": 2, "name": "Hess", "age": 1200 },
+        { "id": 3, "name": "Kunegunda", "age": 66 }
+        ]
+}
